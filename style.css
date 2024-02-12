@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#mineralsDisplay {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#mineButton,
+#upgradeButton,
+#prestigeButton {
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#shopContent {
+    margin-top: 20px;
+}
